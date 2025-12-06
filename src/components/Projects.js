@@ -27,7 +27,7 @@ const Projects = () => {
             description: 'Aplicación web con interfaz moderna y funcionalidades avanzadas',
             details: 'Aplicación web moderna desarrollada con las últimas tecnologías. Incluye diseño responsive, componentes reutilizables y optimización de rendimiento. Implementa mejores prácticas de desarrollo y patrones de diseño modernos.',
             tech: ['React', 'JavaScript', 'HTML5', 'CSS3'],
-            github: 'https://github.com/JhostinJoel/webapp',
+            github: 'https://github.com/JhostinJoel/webappp',
             demo: 'https://webappp-6oo8.onrender.com/'
         }
     ]);
