@@ -9,7 +9,7 @@ const Projects = () => {
             description: 'Sistema completo de gestión de inventarios, clientes, rutas y préstamos',
             details: 'Este sistema actúa como un puente entre la gestión física y digital, permitiendo a los administradores **controlar el inventario en tiempo real**, gestionar **ventas y pedidos**, y ofrecer a los clientes una experiencia de compra moderna y fluida. Es la herramienta ideal para negocios que buscan digitalizar sus operaciones sin complicaciones, centralizando la administración de productos, categorías y flujo de caja en una sola plataforma robusta y segura.',
             tech: ['Node.js', 'Express', 'MySQL', 'EJS', 'Bootstrap'],
-            github: 'https://github.com/JhostinJoel/Inventarios',
+            github: 'https://github.com/JhostinJoel/Sistema-de-Inventarios',
             demo: 'https://sistema-de-inventarios-2.onrender.com/'
         },
         {
